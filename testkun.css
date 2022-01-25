@@ -1,0 +1,23 @@
+h1{
+color:blue;
+font-size: 80px;
+left:10px;
+}
+h2{
+    font-size: 50px;
+    color: black;
+}
+
+.Discord{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+body{
+ 
+    background-image: url("https://wallpapercave.com/wp/wp2754860.jpg");
+    background-size: cover;
+}
+p{
+    color: black;
+}
